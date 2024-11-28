@@ -12,5 +12,5 @@ pip install -r requirements.txt
 ```
 ### Run the code
 ```bash
-
+python manage.py runserver                 
 ```
